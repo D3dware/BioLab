@@ -1,2 +1,3 @@
 Executável, documentação de usuário e instruções de instalação disponíveis em:
-        https://drive.google.com/drive/folders/1umMae3vzymrMjX-VPlTOowaspc03kFWy?usp=sharing
+        Sem Interface Gráfica -> https://drive.google.com/drive/folders/1umMae3vzymrMjX-VPlTOowaspc03kFWy?usp=sharing
+        Com Interface Gráfica -> https://drive.google.com/drive/folders/13vuOA2XSDxOekur_EdBRsZ5ZoP0GRdBZ?usp=drive_link
